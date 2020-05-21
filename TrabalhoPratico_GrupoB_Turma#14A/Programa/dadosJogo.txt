@@ -1,0 +1,6 @@
+Localização do tesouro: salaTv
+Dica: O tesouro nao está no(a) banheiro1
+Dica: O tesouro nao está no(a) quarto2
+Dica: O tesouro nao está no(a) jardim
+Dica: O tesouro está proximo ao jardim
+Localização da chave Mestra: escritorio
